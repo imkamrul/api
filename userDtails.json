@@ -2,7 +2,7 @@
   {
     "key": 1,
     "name": "Kamrul Hasan",
-    "Skill": "C, Java, React",
+    "Skill": "C, Java, React,Bootstrap",
     "sallery": 1000,
     "projectCompete": 10,
     "age": 22,
@@ -11,7 +11,7 @@
   {
     "key": 2,
     "name": "Mehedi Hasan",
-    "Skill": "C, Php, Java",
+    "Skill": "C, Php, Java, Tailwind",
     "sallery": 900,
     "projectCompete": 11,
     "age": 22,
@@ -47,7 +47,7 @@
   {
     "key": 6,
     "name": "Shakil Choudury",
-    "Skill": "C, Pythonm , Java",
+    "Skill": "C, Python , Java, Bootstrap",
     "sallery": 900,
     "projectCompete": 7,
     "age": 28,
@@ -65,7 +65,7 @@
   {
     "key": 8,
     "name": "MD Noyon",
-    "Skill": "Java, React",
+    "Skill": "Java, React, C-Program",
     "sallery": 1200,
     "projectCompete": 12,
     "age": 32,
@@ -83,7 +83,7 @@
   {
     "key": 10,
     "name": "Maruf Ahmed",
-    "Skill": "C, C#, HTML,SQL",
+    "Skill": "C, C#, HTML,SQL, OOP(PHP)",
     "sallery": 1000,
     "projectCompete": 8,
     "age": 26,
@@ -128,7 +128,7 @@
   {
     "key": 15,
     "name": "Samad Choudury",
-    "Skill": "Python, Java, Ruby/Ruby on Rails, HTM",
+    "Skill": "Python, Java, Ruby/Ruby on Rails",
     "sallery": 1000,
     "projectCompete": 6,
     "age": 32,
@@ -137,7 +137,7 @@
   {
     "key": 16,
     "name": "Sanjana Ria",
-    "Skill": "Python,Java,Bootsrap,Tailwind",
+    "Skill": "Python, Java, Bootstrap",
     "sallery": 670,
     "projectCompete": 4,
     "age": 29,
@@ -146,7 +146,7 @@
   {
     "key": 17,
     "name": "Amena Khatun",
-    "Skill": "Java, React,HTML",
+    "Skill": "Java, React, HTML, Bootstrap",
     "sallery": 780,
     "projectCompete": 10,
     "age": 19,
@@ -155,7 +155,7 @@
   {
     "key": 18,
     "name": "Moyna AKter",
-    "Skill": "CSS, Php, JAva React",
+    "Skill": "CSS, Php, Jaa React",
     "sallery": 100,
     "projectCompete": 9,
     "age": 20,
@@ -164,7 +164,7 @@
   {
     "key": 19,
     "name": "Labonno Rahman",
-    "Skill": "C, Python, Java",
+    "Skill": "C, Python, Java, React",
     "sallery": 800,
     "projectCompete": 7,
     "age": 21,
@@ -182,7 +182,7 @@
   {
     "key": 21,
     "name": "Tasfi Nusrat",
-    "Skill": "Java, React,C, Php",
+    "Skill": "Java, React,C, Php, Tailwind",
     "sallery": 600,
     "projectCompete": 4,
     "age": 32,
