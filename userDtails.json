@@ -6,6 +6,8 @@
     "sallery": 1000,
     "projectCompete": 10,
     "age": 22,
+     "email":"kh@gmail.com",
+    
     "img": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg"
   },
   {
@@ -15,6 +17,7 @@
     "sallery": 900,
     "projectCompete": 11,
     "age": 22,
+    "email":"hasan@gmail.com",
     "img": "http://www.sagedining.com/intranet/apps/messages/wp-content/uploads/2019/04/John-Noyes-1.jpg"
   },
   {
@@ -24,6 +27,7 @@
     "sallery": 800,
     "projectCompete": 6,
     "age": 19,
+     "email":"kabir@gmail.com",
     "img": "https://workpermit.com/sites/default/files/styles/large/public/computer-programmer.jpg?itok=T1b6vK9j"
   },
   {
@@ -33,6 +37,7 @@
     "sallery": 600,
     "projectCompete": 5,
     "age": 16,
+     "email":"shakil@yahoo.com",
     "img": "https://st2.depositphotos.com/1643295/7439/i/450/depositphotos_74390661-stock-photo-handsome-indian-businessman.jpg"
   },
   {
@@ -42,6 +47,7 @@
     "sallery": 500,
     "projectCompete": 3,
     "age": 23,
+     "email":"mohrah@yahoo.com",
     "img": "https://www.nocsdegree.com/content/images/2020/01/17436322_1439370352761320_4792275533949671599_o-copy--1-.jpg"
   },
   {
@@ -51,6 +57,7 @@
     "sallery": 900,
     "projectCompete": 7,
     "age": 28,
+     "email":"shakilchow@gmail.com",
     "img": "https://media.gettyimages.com/photos/thinking-picture-id960588036?s=612x612"
   },
   {
@@ -60,6 +67,7 @@
     "sallery": 600,
     "projectCompete": 7,
     "age": 21,
+     "email":"soykot@gmail.com",
     "img": "https://static3.bigstockphoto.com/6/3/2/large1500/236866495.jpg"
   },
   {
@@ -69,6 +77,7 @@
     "sallery": 1200,
     "projectCompete": 12,
     "age": 32,
+     "email":"noyon@hotmail.com",
     "img": "https://thumbs.dreamstime.com/b/software-developer-his-desk-portrait-smiling-young-indian-software-developer-glasses-sitting-office-desk-200015712.jpg"
   },
   {
@@ -78,6 +87,7 @@
     "sallery": 1200,
     "projectCompete": 12,
     "age": 29,
+     "email":"rahman@yahoo.com",
     "img": "https://thumbs.dreamstime.com/b/texting-developer-cheerful-indian-reading-messages-his-phone-127950114.jpg"
   },
   {
@@ -87,6 +97,7 @@
     "sallery": 1000,
     "projectCompete": 8,
     "age": 26,
+     "email":"maruf@gmail.com",
     "img": "https://previews.123rf.com/images/dotshock/dotshock1903/dotshock190300016/118962281-portrait-of-young-indian-successful-male-software-developer-sitting-on-desk-at-modern-startup-office.jpg"
   },
   {
@@ -96,6 +107,7 @@
     "sallery": 900,
     "projectCompete": 7,
     "age": 29,
+     "email":"ripon@yahoo.com",
     "img": "https://previews.123rf.com/images/dragonimages/dragonimages1705/dragonimages170501988/77968120-young-indian-software-developer-working-in-office.jpg"
   },
   {
@@ -105,6 +117,7 @@
     "sallery": 680,
     "projectCompete": 7,
     "age": 32,
+     "email":"sadavi@gmail.com",
     "img": "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2013/12/shutterstock_1079967281-1024x560.jpg"
   },
   {
@@ -114,6 +127,7 @@
     "sallery": 930,
     "projectCompete": 8,
     "age": 26,
+     "email":"karim@gmail.com",
     "img": "https://tech9.com/wp-content/uploads/shutterstock_629993783-2.jpg"
   },
   {
@@ -123,6 +137,7 @@
     "sallery": 1000,
     "projectCompete": 5,
     "age": 22,
+     "email":"tonmoy@gmail.com",
     "img": "https://media.glassdoor.com/l/06/d1/1d/b7/engineer-s-life-at-haptik.jpg"
   },
   {
@@ -132,6 +147,7 @@
     "sallery": 1000,
     "projectCompete": 6,
     "age": 32,
+     "email":"samad@gmail.com",
     "img": "https://2sn8fo221q11n2wj1bcaj79w-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/labor-certification-indian-software-engineer.jpg"
   },
   {
@@ -141,6 +157,7 @@
     "sallery": 670,
     "projectCompete": 4,
     "age": 29,
+     "email":"sanjria@gmail.com",
     "img": "https://2sn8fo221q11n2wj1bcaj79w-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/indian-woman-software-engineer.jpg"
   },
   {
@@ -150,6 +167,7 @@
     "sallery": 780,
     "projectCompete": 10,
     "age": 19,
+     "email":"akhatun@gmail.com",
     "img": "https://govinsider.asia/wp-content/uploads/2018/12/Peiling-Chua-1-1024x587.jpg"
   },
   {
@@ -159,6 +177,7 @@
     "sallery": 100,
     "projectCompete": 9,
     "age": 20,
+     "email":"moyna@hotmail.com",
     "img": "https://www.timeshighereducation.com/sites/default/files/female-engineer-measuring-voltage-on-conductor-board.jpg"
   },
   {
@@ -168,6 +187,7 @@
     "sallery": 800,
     "projectCompete": 7,
     "age": 21,
+     "email":"labonno@gmail.com",
     "img": "https://c8.alamy.com/comp/G1F6AW/model-released-female-electrical-engineer-using-laptop-G1F6AW.jpg"
   },
   {
@@ -177,6 +197,7 @@
     "sallery": 650,
     "projectCompete": 9,
     "age": 32,
+     "email":"ayesa@gmail.com",
     "img": "https://assets.puzzlefactory.pl/puzzle/234/964/original.jpg"
   },
   {
@@ -186,6 +207,7 @@
     "sallery": 600,
     "projectCompete": 4,
     "age": 32,
+     "email":"tasfi@gmail.com",
     "img": "https://www.rohm.com/documents/portlet_file_entry/11308/SouhaHassine_ROHMSemiconductor.jpg/a49e31e5-1972-44df-c72f-1288e7b06eac"
   }
 ]
