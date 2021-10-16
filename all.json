@@ -1,4 +1,4 @@
-{
+[
     {
         "id": "1",
         "title": "Bread and Cream cheese",
@@ -125,4 +125,4 @@
         "price": "3.99",
         "image": "https://i.ibb.co/NV9tVDX/dinner6.png"
     }
-}
+]
