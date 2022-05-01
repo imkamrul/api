@@ -1,13 +1,13 @@
 {
   "catagories": [
     {
-      "link": "/bangla"
+      "link": "bollywood"
     },
     {
-      "link": "/hindi"
+      "link": "hollywood"
     },
     {
-      "link": "/english"
+      "link": "tollywood"
     }
   ],
   "movie_id": [
