@@ -1,0 +1,24 @@
+{
+  "catagories": [
+    {
+      "link": "/bangla"
+    },
+    {
+      "link": "/hindi"
+    },
+    {
+      "link": "/english"
+    }
+  ],
+  "movie_id": [
+    {
+      "link": "1"
+    },
+    {
+      "link": "2"
+    },
+    {
+      "link": "3"
+    }
+  ]
+}
