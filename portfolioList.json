@@ -1,45 +1,119 @@
 [
-    {
-        "id": "1",
-        "title": "Bread and Cream cheese",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "6.99",
-        "image": "https://i.ibb.co/Sr3vt0x/breakfast1.png"
-    },
-    {
-        "id": "2",
-        "title": "Breakfast Sandwitch",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "9.99",
-        "image": "https://i.ibb.co/dJNctJ1/breakfast2.png"
-    },
-    {
-        "id": "3",
-        "title": "Eggs Benedict",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "10.99",
-        "image": " https://i.ibb.co/MMVQjmH/breakfast3.png"
-    },
-    {
-        "id": "4",
-        "title": "Toast Croissant Fried Egg",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "8.99",
-        "image": "https://i.ibb.co/frJr3pQ/breakfast4.png"
-    },
-    {
-        "id": "5",
-        "title": "Baked Chicken",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "19.99",
-        "image": "https://i.ibb.co/BqnvsTr/breakfast5.png"
-    },
-    {
-        "id": "6",
-        "title": "Full Breakfast Fried Egg Toast Brunch",
-        "detail": " Flatten the bread and mix up the filling and coating. Using a rolling pin, flatten the bread out.The cream cheese makes the bread a bit more filling, and tastes great mixed in with the garlic, paprika, and fresh parsley.",
-        "price": "3.99",
-        "image": "https://i.ibb.co/Np9WXmJ/breakfast6.png"
-    }
- 
+  {
+    "name": "Movie Scope",
+    "tag": [
+      "All",
+      "Full",
+      "front-end",
+      "back-end"
+    ],
+    "stack": [
+      "Next JS",
+      "Tailwind CSS",
+      "Node JS",
+      "Mongo DB",
+      "Express",
+      "Axios",
+      "React Hook Form",
+      "React Modal",
+      "React Player",
+      "React Rating",
+      "React Toastify",
+      "SweatAlert",
+      "React Fontawesome"
+    ],
+    "info": [
+      "This is a movie streaming website",
+      "User Can request for any movie",
+      "Admin can add, remove and edit slider information",
+      "Admin can easy upload movie and maintain it"
+    ],
+    "img_url": "www.facebook.com/ggg.png",
+    "live_url": "https://bicyle-habitat.firebaseapp.com/",
+    "code_front_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat",
+    "code_back_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat"
+  },
+  {
+    "name": "Bicycle Habitat",
+    "tag": [
+      "All",
+      "Full",
+      "front-end",
+      "back-end"
+    ],
+    "stack": [
+      "React JS",
+      "Bootstrap",
+      "Node JS",
+      "Mongo DB",
+      "Express",
+      "Axios",
+      "React Hook Form",
+      "Firebase",
+      "React Rating"
+    ],
+    "info": [
+      "Service Website including admin panel to add or remove services.",
+      "Form to leave a review for the clients to show on the homepage.",
+      "Option for admin to add more services, manage orders."
+    ],
+    "img_url": "www.facebook.com/ggg.png",
+    "live_url": "https://bicyle-habitat.firebaseapp.com/",
+    "code_front_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat",
+    "code_back_url": "https://github.com/kamrul-hasan01/Bycylce-Habitat-server"
+  },
+  {
+    "name": "Victory Travel",
+    "tag": [
+      "All",
+      "Full",
+      "front-end",
+      "back-end"
+    ],
+    "stack": [
+      "React JS",
+      "Bootstrap",
+      "Node JS",
+      "Mongo DB",
+      "Express",
+      "Axios",
+      "React Hook Form",
+      "Firebase",
+      "React Rating"
+    ],
+    "info": [
+      "Booking Website including a dashboard to manage orders.",
+      "Option for admin can remove user.",
+      "Option for a client to add more or remove the booking."
+    ],
+    "img_url": "www.facebook.com/ggg.png",
+    "live_url": "https://victory-travel-k17h02.web.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/Victory-Travel",
+    "code_back_url": "https://github.com/kamrul-hasan01/Victory-Travel-server-"
+  },
+  {
+    "name": "Denti-Care",
+    "tag": [
+      "All",
+      "Full",
+      "front-end",
+      "back-end"
+    ],
+    "stack": [
+      "React JS",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "React Hook Form",
+      "Firebase"
+    ],
+    "info": [
+      "Dental Website for an appointment.",
+      "The patient can see doctor details and book appointments.",
+      "Firebase Authentication used."
+    ],
+    "img_url": "www.facebook.com/ggg.png",
+    "live_url": "https://denticare-k17h02.web.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/Denticare"
+  }
 ]
