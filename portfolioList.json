@@ -59,7 +59,7 @@
   },
   {
     "name": "Victory Travel",
-    "tag": ["full-stack"],
+    "tag": ["all","full-stack"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -83,7 +83,7 @@
   },
   {
     "name": "Denti-Care",
-    "tag": ["front-end"],
+    "tag": ["all","front-end"],
     "stack": [
       "React JS",
       "Bootstrap",
