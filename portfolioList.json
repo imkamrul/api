@@ -2,8 +2,8 @@
   {
     "name": "Movie Scope",
     "tag": [
-      "All",
-      "Full",
+      "all",
+      "full-stack",
       "front-end",
       "back-end"
     ],
@@ -35,12 +35,7 @@
   },
   {
     "name": "Bicycle Habitat",
-    "tag": [
-      "All",
-      "Full",
-      "front-end",
-      "back-end"
-    ],
+    "tag": ["all"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -64,12 +59,7 @@
   },
   {
     "name": "Victory Travel",
-    "tag": [
-      "All",
-      "Full",
-      "front-end",
-      "back-end"
-    ],
+    "tag": ["full-stack"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -93,12 +83,7 @@
   },
   {
     "name": "Denti-Care",
-    "tag": [
-      "All",
-      "Full",
-      "front-end",
-      "back-end"
-    ],
+    "tag": ["front-end"],
     "stack": [
       "React JS",
       "Bootstrap",
