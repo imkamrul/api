@@ -1,12 +1,7 @@
 [
   {
     "name": "Movie Scope",
-    "tag": [
-      "all",
-      "full-stack",
-      "front-end",
-      "back-end"
-    ],
+    "tag": ["all", "full-stack", "front-end", "back-end"],
     "stack": [
       "Next JS",
       "Tailwind CSS",
@@ -23,19 +18,16 @@
       "React Fontawesome"
     ],
     "info": [
-      "This is a movie streaming website",
-      "User Can request for any movie",
-      "Admin can add, remove and edit slider information",
-      "Admin can easy upload movie and maintain it"
+      "This is a movie streaming website. User Can request for any movie. Admin can add, remove and edit slider information. Admin can easy upload movie and maintain it"
     ],
-    "img_url": "www.facebook.com/ggg.png",
-    "live_url": "https://bicyle-habitat.firebaseapp.com/",
-    "code_front_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat",
-    "code_back_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat"
+    "img_url": "movie.png",
+    "live_url": "https://movie-scope.vercel.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/movie-site",
+    "code_back_url": "https://github.com/kamrul-hasan01/movie-scope-server"
   },
   {
     "name": "Bicycle Habitat",
-    "tag": ["all"],
+    "tag": ["all", "full-stack", "front-end", "back-end"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -48,18 +40,16 @@
       "React Rating"
     ],
     "info": [
-      "Service Website including admin panel to add or remove services.",
-      "Form to leave a review for the clients to show on the homepage.",
-      "Option for admin to add more services, manage orders."
+      "Service Website including admin panel to add or remove services. Form to leave a review for the clients to show on the homepage. Option for admin to add more services, manage orders."
     ],
-    "img_url": "www.facebook.com/ggg.png",
+    "img_url": "cycle.png",
     "live_url": "https://bicyle-habitat.firebaseapp.com/",
     "code_front_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat",
     "code_back_url": "https://github.com/kamrul-hasan01/Bycylce-Habitat-server"
   },
   {
     "name": "Victory Travel",
-    "tag": ["all","full-stack"],
+    "tag": ["all", "full-stack", "front-end", "back-end"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -72,18 +62,16 @@
       "React Rating"
     ],
     "info": [
-      "Booking Website including a dashboard to manage orders.",
-      "Option for admin can remove user.",
-      "Option for a client to add more or remove the booking."
+      "Booking Website including a dashboard to manage orders. Option for admin can remove user. Option for a client to add more or remove the booking."
     ],
-    "img_url": "www.facebook.com/ggg.png",
+    "img_url": "/travel.png",
     "live_url": "https://victory-travel-k17h02.web.app/",
     "code_front_url": "https://github.com/kamrul-hasan01/Victory-Travel",
     "code_back_url": "https://github.com/kamrul-hasan01/Victory-Travel-server-"
   },
   {
     "name": "Denti-Care",
-    "tag": ["all","front-end"],
+    "tag": ["all", "front-end"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -93,11 +81,9 @@
       "Firebase"
     ],
     "info": [
-      "Dental Website for an appointment.",
-      "The patient can see doctor details and book appointments.",
-      "Firebase Authentication used."
+      "Dental Website for an appointment. The patient can see doctor details and book appointments. Firebase Authentication used."
     ],
-    "img_url": "www.facebook.com/ggg.png",
+    "img_url": "/doctor.png",
     "live_url": "https://denticare-k17h02.web.app/",
     "code_front_url": "https://github.com/kamrul-hasan01/Denticare"
   }
