@@ -20,7 +20,7 @@
     "info": [
       "This is a movie streaming website. User Can request for any movie. Admin can add, remove and edit slider information. Admin can easy upload movie and maintain it"
     ],
-    "img_url": "movie.png",
+    "img_url": "/movie.png",
     "live_url": "https://movie-scope.vercel.app/",
     "code_front_url": "https://github.com/kamrul-hasan01/movie-site",
     "code_back_url": "https://github.com/kamrul-hasan01/movie-scope-server"
@@ -42,7 +42,7 @@
     "info": [
       "Service Website including admin panel to add or remove services. Form to leave a review for the clients to show on the homepage. Option for admin to add more services, manage orders."
     ],
-    "img_url": "cycle.png",
+    "img_url": "/cycle.png",
     "live_url": "https://bicyle-habitat.firebaseapp.com/",
     "code_front_url": "https://github.com/kamrul-hasan01/Bycyle-Habitat",
     "code_back_url": "https://github.com/kamrul-hasan01/Bycylce-Habitat-server"
