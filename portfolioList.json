@@ -1,7 +1,17 @@
 [
   {
+    "name": "The TechSci",
+    "tag": ["all", "front-end"],
+    "stack": ["Next JS", "Tailwind CSS"],
+    "info": [
+      "I recently developed an IT service website  using Next.js. This is a IT services website. User Can request for any movie. Admin can add, remove and edit slider information. Admin can easy upload movie and maintain it"
+    ],
+    "img_url": "/techSci.png",
+    "live_url": "https://www.thetechsci.com/"
+  },
+  {
     "name": "Movie Scope",
-    "tag": ["all", "full-stack", "front-end", "back-end"],
+    "tag": ["all", "full-stack", "front-end"],
     "stack": [
       "Next JS",
       "Tailwind CSS",
@@ -9,21 +19,15 @@
       "Mongo DB",
       "Express",
       "Axios",
-      "React Hook Form",
       "React Modal",
-      "React Player",
-      "React Rating",
-      "React Toastify",
-      "SweatAlert",
-      "React Fontawesome"
+      "React Player"
     ],
     "info": [
       "This is a movie streaming website. User Can request for any movie. Admin can add, remove and edit slider information. Admin can easy upload movie and maintain it"
     ],
     "img_url": "/movie.png",
     "live_url": "https://movie-scope.vercel.app/",
-    "code_front_url": "https://github.com/kamrul-hasan01/movie-site",
-    "code_back_url": "https://github.com/kamrul-hasan01/movie-scope-server"
+    "code_front_url": "https://github.com/kamrul-hasan01/movie-site"
   },
   {
     "name": "Bicycle Habitat",
@@ -86,5 +90,33 @@
     "img_url": "/doctor.png",
     "live_url": "https://denticare-k17h02.web.app/",
     "code_front_url": "https://github.com/kamrul-hasan01/Denticare"
+  },
+  {
+    "name": "Ema-John",
+    "tag": ["all", "full-stack", "front-end"],
+    "stack": ["React JS", "Bootstrap", "Node JS", "Mongo DB", "Firebase"],
+    "info": ["This is a simple e-commerce website where user can buy product."],
+    "img_url": "/emajohn.png",
+    "live_url": "https://ema-jhon-k17h02.web.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/ema-jhon-with-nodee",
+    "code_back_url": "https://github.com/kamrul-hasan01/ema-jhon-node-server"
+  },
+  {
+    "name": "Developers",
+    "tag": ["all", "front-end"],
+    "stack": ["React JS", "Bootstrap", "HTML", "CSS"],
+    "info": ["This is a simple website"],
+    "img_url": "/developers.png",
+    "live_url": "https://developers-center.netlify.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/Developers-center"
+  },
+  {
+    "name": "Jerins Parlour",
+    "tag": ["all", "front-end"],
+    "stack": ["React JS", "Bootstrap", "HTML", "CSS"],
+    "info": ["This is a simple website"],
+    "img_url": "/parlour.png",
+    "live_url": "https://jerins-parlour.netlify.app/",
+    "code_front_url": "https://github.com/kamrul-hasan01/jerins-parlour"
   }
 ]
