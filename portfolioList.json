@@ -4,7 +4,7 @@
     "tag": ["all", "front-end"],
     "stack": ["Next JS", "Tailwind CSS"],
     "info": [
-      "I recently developed an IT service website  using Next.js. This is a IT services website. User Can request for any movie. Admin can add, remove and edit slider information. Admin can easy upload movie and maintain it"
+      "I recently developed an IT service website  using Next.js. This is a IT services website."
     ],
     "img_url": "/techSci.png",
     "live_url": "https://www.thetechsci.com/"
