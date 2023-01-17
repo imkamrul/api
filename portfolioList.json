@@ -11,7 +11,7 @@
   },
   {
     "name": "Movie Scope",
-    "tag": ["all", "full-stack", "front-end"],
+    "tag": ["all", "full-stack"],
     "stack": [
       "Next JS",
       "Tailwind CSS",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Bicycle Habitat",
-    "tag": ["all", "full-stack", "front-end", "back-end"],
+    "tag": ["all", "full-stack"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Victory Travel",
-    "tag": ["all", "full-stack", "front-end", "back-end"],
+    "tag": ["all", "full-stack"],
     "stack": [
       "React JS",
       "Bootstrap",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Ema-John",
-    "tag": ["all", "full-stack", "front-end"],
+    "tag": ["all", "full-stack"],
     "stack": ["React JS", "Bootstrap", "Node JS", "Mongo DB", "Firebase"],
     "info": ["This is a simple e-commerce website where user can buy product."],
     "img_url": "/emajohn.png",
